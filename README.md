@@ -40,11 +40,11 @@ Use the starter code and commit each step of the exercise.
 
 ###Commit 7
 
-* Add a new tool to your program, the 'stamp' tool. 
+* Add a new tool to your program, the 'stamp' tool (explained below under `Stamp Tool Functionality`)
 * The user should be able to pick either the paint tool (the one you already built in previous steps), or the new stamp tool.
 
 #### Stamp Tool Functionality
 
-* get an movie name using an input field, then use AJAX to fetch the poster url of that movie using the omdb api and use that as your pixel image.
+* Get a movie name using an input field, then use AJAX to fetch the poster url of that movie using the omdb api and use that as your pixel image.
 
 ![art](http://i.imgur.com/3fsRWn4.jpg)
