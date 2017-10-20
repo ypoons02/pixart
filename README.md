@@ -21,7 +21,7 @@ Use the starter code and commit each step of the exercise.
 
 ###Commit 3
 
-* Create 20 divs of the "square" class and append them to the body
+* Create 1000 divs of the "square" class and append them to the body (you can use multiple rows, since you can't fit them all on one row)
   * **Hint**: use `.append()`
 
 ###Commit 4
